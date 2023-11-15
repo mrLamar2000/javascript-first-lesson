@@ -13,3 +13,13 @@
  ### Operators IN JavaScript
  ![Alt text](th2.jpeg)
  ##### An operator is capable of manipulating a certain value or operand. Operators are used to performing specific mathematical and logical computations on operands. In other words, we can say that an operator operates the operands. In JavaScript, operators are used for comparing values, performing arithmetic operations, etc.
+ ### Function in JS
+ ![Alt text](th3.jpeg)
+ ##### Answered Oct 12, 2015 · 6 votes
+##### The functions are out of scope of one another. You can see this by looking at this block:
+
+##### $(document).readyfunction()
+  #####  function loadFYfResults(sizes)
+  ### types of function in JS
+  ![Alt text](41.webp)
+  ##### Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output. To use a function, you must define it somewhere in the scope from which you wish to call it.
